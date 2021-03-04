@@ -1,3 +1,3 @@
 hello
 world!!
-conflict1
+conflict
